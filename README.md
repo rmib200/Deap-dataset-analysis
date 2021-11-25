@@ -7,7 +7,7 @@ The electroencephalogram (EEG) and peripheral physiological signals of 32 partic
 
 Link to the original paper of the dataset: [https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf)
 
-In this colab is the code used to achieve >90 accuracy on the classification of the affective response of the participants. The model used was a Gradient Boosting Machine along with PCA decomposition.
+In this colab is the code used to achieve ~100 % accuracy on the classification of the affective response of individual participants. The model used was a Gradient Boosting Machine along with PCA decomposition.
 # Confusion Matrix
 
 ![https://github.com/rmib200/Deap-dataset-analysis/blob/main/deap_cm.png](https://github.com/rmib200/Deap-dataset-analysis/blob/main/deap_cm.png)
